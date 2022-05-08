@@ -1,4 +1,4 @@
-module github.com/sne-ot-research/peerscanner
+module github.com/dadepo/peerscanner
 
 go 1.14
 
